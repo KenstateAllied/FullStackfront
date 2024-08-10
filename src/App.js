@@ -6,6 +6,7 @@ import Student from './components/Student'
 function App() {
   return (
     <div className="App">
+      SamSam
     <Appbar/>
     <Student/>
    
